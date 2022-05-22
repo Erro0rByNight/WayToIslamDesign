@@ -1,0 +1,13 @@
+.img-art {
+    border-radius: 2%;
+    width: 50%;
+    height: 25%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.content {
+    text-align: center;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 5%;
+}

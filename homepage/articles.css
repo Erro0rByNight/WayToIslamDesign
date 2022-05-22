@@ -1,0 +1,39 @@
+.container{
+    display: table;
+    width: max-content;
+    table-layout: fixed;
+    border-spacing: 10px;
+}
+.column {
+    display: table-cell;
+    border-radius: 10%;
+    background-color: rgba(238, 238, 238, 0.904);
+}
+.arti {
+display:inline-block;
+box-shadow: #000;
+width: 400px;
+height: 270px;
+border-radius: 10%;
+margin: 10px 10px 10px 10px;
+}
+.tit-art {
+    text-decoration: none;
+    color: #000;
+    text-align: center;
+}
+.tit-art:hover{
+    text-decoration: none;
+    font-weight: 300;
+    color: #3b3a3a;
+}
+
+h3 {
+    color: navy;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.more {
+    color: navy;
+}
